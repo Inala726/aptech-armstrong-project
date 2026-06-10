@@ -1,0 +1,1 @@
+-web: gunicorn armstrong_project.wsgi
