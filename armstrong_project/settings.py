@@ -85,6 +85,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "https://armstrong-explorer-dep.vercel.app",
+    "https://armstrong-explorer.vercel.app/",
     "http://localhost:5173",
     "https://web-production-79e1e.up.railway.app"
 ]
